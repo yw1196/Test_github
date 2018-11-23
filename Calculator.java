@@ -1,4 +1,9 @@
 pubic class Calculator(){
+
+  public int multiple(int a, int b){
+    return a * b;
+  }
+
   public int sum(int a, int b){
     return a+b;
   }
